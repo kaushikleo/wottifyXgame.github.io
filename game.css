@@ -1,0 +1,15 @@
+/* game.css */
+body {
+    margin: 0;
+    font-family: monospace;
+    font-size: 1.25em;
+    transition: background-color 0.5s ease-in-out;
+}
+
+body.day {
+    background-color: #87CEEB;
+}
+
+body.night {
+    background-color: #2C3E50;
+}
